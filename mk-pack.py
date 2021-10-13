@@ -1,6 +1,7 @@
 #                                 Welcome to DataFlair Hangman Game:
 
 # Initial !st contri
+# 2nd contri
 import random
 import time
 
