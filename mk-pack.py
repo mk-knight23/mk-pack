@@ -1,6 +1,6 @@
 #                                 Welcome to DataFlair Hangman Game:
 
-
+# Initial 1.7 Contribution
 import random
 import time
 
